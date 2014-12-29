@@ -1,9 +1,10 @@
 /*
- * Qt4 bitcoin GUI.
+ * Qt4 bitcoin GUI. This sucks
  *
  * W.J. van der Laan 2011-2012
  * The Bitcoin Developers 2011-2012
- * The Litecoin Developers 201-2013
+ * The Litecoin Developers 2011-2013
+ * Killa T. Ross 2014-2015
  */
 #include "bitcoingui.h"
 #include "transactiontablemodel.h"
